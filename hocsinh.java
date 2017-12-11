@@ -1,1 +1,4 @@
 class HocSinh;
+{
+	ten;
+	lop;
