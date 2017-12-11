@@ -4,3 +4,4 @@ class HocSinh;
 	lop;
 	mon;
 	giaovien;
+	truong;
